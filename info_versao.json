@@ -17,7 +17,7 @@
     "🔍 Sistema de debug detalhado para importação de planilhas"
   ],
   "tamanho": "302 MB",
-  "url_download": "https://github.com/sigpca/updates/releases/download/v1.4.1/SIGPCA_Setup_v1.4.1.exe",
+  "url_download": "https://github.com/devgaudencio/sigpca-updates/releases/download/v1.4.1/SIGPCA_Setup_v1.4.1.exe",
   "url_changelog": "https://sigpca.com/changelog/v1.1.0",
   "requisitos": {
     "python": "3.8+",
