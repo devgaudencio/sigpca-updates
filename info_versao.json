@@ -1,0 +1,26 @@
+{
+  "versao": "1.4.1",
+  "data_lancamento": "2025-01-15",
+  "descricao": "Versão 1.4.1 com correções importantes",
+  "changelog": [
+    "🐛 Corrigido erro de codificação Unicode na geração de PDFs",
+    "🐛 Corrigido problema de deleção de itens para usuários normais",
+    "✨ Implementada seleção múltipla de programas (até 5)",
+    "🐛 Corrigido erro no sistema de logs",
+    "🔧 Melhorias na interface de seleção múltipla",
+    "⚡ Otimizações de performance",
+    "🔧 Corrigida lógica de importação para ler todos os itens da planilha",
+    "💰 Implementado processamento automático de valores monetários (R$6,24, 6,24, etc.)",
+    "🧮 Implementado cálculo automático do valor total (Quantitativo × Valor Unitário)",
+    "🧹 Implementada sanitização automática de textos para evitar erros em PDFs",
+    "👑 Corrigidas permissões do admin para acesso completo a todas as secretarias",
+    "🔍 Sistema de debug detalhado para importação de planilhas"
+  ],
+  "tamanho": "302 MB",
+  "url_download": "https://github.com/sigpca/updates/releases/download/v1.4.1/SIGPCA_Setup_v1.4.1.exe",
+  "url_changelog": "https://sigpca.com/changelog/v1.1.0",
+  "requisitos": {
+    "python": "3.8+",
+    "sistema": "Windows 10+"
+  }
+}
